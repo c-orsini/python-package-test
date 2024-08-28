@@ -7,7 +7,7 @@ LONG_DESCRIPTION = "Python package with a slightly longer description"
 # Setting up
 setup(
     # the name must match the folder name 'verysimplemodule'
-    name="package-test",
+    name="packagetest",
     version=VERSION,
     author="Author Name",
     author_email="<youremail@email.com>",
